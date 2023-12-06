@@ -6,3 +6,7 @@ RMF 2 project aims to address RMF's limitation in the manufacturing and logistic
 .. toctree::
    :maxdepth: 2
    :caption: Developer Documentation
+
+   developer/contribution
+   developer/release
+   developer/changelog
