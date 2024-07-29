@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'rmf2'
-copyright = u'2023, Chen Bainian, licensed under the Creative Commons Attribution 4.0'  # noqa: A001
-author = 'Chen Bainian'
+copyright = u'2023, Chen Bainian, Timothy Tan, licensed under the Creative Commons Attribution 4.0'  # noqa: A001
+author = 'Chen Bainian, Timothy Tan'
 
 # The short X.Y version
 version = u''

@@ -21,11 +21,11 @@ Modules
 ===============
 Robot Task Generator
 ----------------------
-   contents/robot_task_generator
+   :doc:`robot_task_generator <..contents/robot_task_generator>` 
 
 Robot Task Scheduler
 ----------------------
-   contents/robot_task_scheduler
+   :doc:`robot_task_scheduler <..contents/robot_task_scheduler>` 
 
 
 .. toctree::
