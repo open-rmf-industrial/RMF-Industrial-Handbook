@@ -5,16 +5,31 @@ Introduction
 -----------------
 
 RMF Industrial project aims bring RMF into the manufacturing and logistics space.
-Significant changes have been made, to RMF1.0, that enables RMF2.0
+Significant changes have been made, to RMF1.0, that enables RMF Industrial (RMF2.0)
    - Introduction of Fiware
+   - Introduction of VDA5050 MQTT
 
 
-Setup and Installation
-=========================
+
+Quick Setup and Installation
+=============================
+
+
 
 
 Systems Architecture
+=====================
+
+
+
+
+Further Documentation(s)
 =========================
+Systems Integration and Test Approach
+--------------------------------------
+   :doc:`Systems Integration and Test Approach <./contents/sys_integrations>` 
+
+
 
 
 Modules
